@@ -1,2 +1,2 @@
-#11;rgb:0000/0000/0000!/bin/bash
-echo "School"
+#!/bin/bash
+echo "The school is open!"
