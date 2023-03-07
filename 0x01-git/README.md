@@ -1,1 +1,1 @@
-Git can be tough
+Git
